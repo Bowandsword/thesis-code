@@ -1,0 +1,17 @@
+
+train: 
+
+    - C:/Users/bowan/Documents/CODING/assorted AI/planning paper examples/Tutorials/Pure_image_methods/Detection/Yolo_test_shapes/train/images
+
+val: 
+    - C:/Users/bowan/Documents/CODING/assorted AI/planning paper examples/Tutorials/Pure_image_methods/Detection/Yolo_test_shapes/val/images
+
+test: 
+
+    - C:/Users/bowan/Documents/CODING/assorted AI/planning paper examples/Tutorials/Pure_image_methods/Detection/Yolo_test_shapes/val/images
+
+# number of classes
+nc: 2
+
+# class names
+names: ["circle", "square"]
